@@ -58,9 +58,6 @@
 			<groupId>org.springframework.integration</groupId>
 			<artifactId>spring-integration-http</artifactId>
 		</dependency>
-
-
-
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
@@ -87,7 +84,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
